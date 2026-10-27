@@ -1,0 +1,18 @@
+img {
+    width: 500px;
+}
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #4d1803;
+    color: rgb(17, 255, 0);
+}
+p{
+    font-size: 20px;
+    font-style: bold;
+    margin: 20px
+}
+h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
